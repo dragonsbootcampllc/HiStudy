@@ -1,0 +1,54 @@
+{
+  "siderbar": [
+    {
+      "link": "/admin/dashboard",
+      "text": "Dashboard",
+      "icon": "feather-home"
+    },
+    {
+      "link": "/admin/profile",
+      "text": "Profile",
+      "icon": "feather-user"
+    },
+    {
+      "link": "/admin/categories",
+      "text": "Categories",
+      "icon": "fas fa-th-large"
+    },
+    {
+      "link": "/admin/services",
+      "text": "Services",
+      "icon": "fas fa-cogs"
+    },
+    {
+      "link": "/admin/courses",
+      "text": "Courses",
+      "icon": "feather-video"
+    },
+    {
+      "link": "/admin/instructors",
+      "text": "Instructors",
+      "icon": "fas fa-chalkboard-teacher"
+    },
+    {
+      "link": "/admin/students",
+      "text": "Students",
+      "icon": "fa fa-graduation-cap"
+    },
+    {
+      "link": "/admin/settings",
+      "text": "Settings",
+      "icon": "feather-settings"
+    },
+    {
+      "link": "/admin/groups",
+      "text": "Groups",
+      "icon": "feather-users"
+    },
+    {
+      "link": "/",
+      "text": "Logout",
+      "icon": "feather-log-out"
+    }
+  ]
+}
